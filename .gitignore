@@ -1,3 +1,16 @@
 node_modules/
 .env
 *.log
+.DS_Store
+dist/
+coverage/
+.idea/
+.vscode/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.bak
+*.pem
